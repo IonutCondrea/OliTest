@@ -3,17 +3,7 @@
 Salut!
 salut tech support, multumirile mele!
 lkajsd;lksalHFKJDSLHFAKJDSHF
-<<<<<<< HEAD
 Scrisoarea III
-=======
-
-
-am facut-o, am belit-o si am comis-o
-
-
-                        SCRISOAREA A 3 A 
-                        Scrisoarea III
->>>>>>> test
 
 Un sultan dintre aceia ce domnesc peste vro limbă,
 Ce cu-a turmelor pășune, a ei patrie ș-o schimbă,
