@@ -3,7 +3,17 @@
 Salut!
 salut tech support, multumirile mele!
 lkajsd;lksalHFKJDSLHFAKJDSHF
+<<<<<<< HEAD
 Scrisoarea III
+=======
+
+
+am facut-o, am belit-o si am comis-o
+
+
+                        SCRISOAREA A 3 A 
+                        Scrisoarea III
+>>>>>>> test
 
 Un sultan dintre aceia ce domnesc peste vro limbă,
 Ce cu-a turmelor pășune, a ei patrie ș-o schimbă,
@@ -307,4 +317,8 @@ Din trecutul de mărire v-ar privi cel mult ironici.
 Cum nu vii tu, Țepeș doamne, ca punând mâna pe ei,
 Să-i împarți în două cete: în smintiți și în mișei,
 Și în două temniți large cu de-a sila să-i aduni,
+<<<<<<< HEAD
 Să dai foc la pușcărie și la casa de nebuni!
+=======
+Să dai foc la pușcărie și la casa de nebuni!git 
+>>>>>>> test
